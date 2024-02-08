@@ -13,7 +13,7 @@ public static void main(String[] args){
     }
     double media = somaDasnotas / 3;
     System.out.println("A media das notas é: " + media);
-
+ 
 }
 
 
